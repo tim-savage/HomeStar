@@ -1,3 +1,7 @@
+### This repository has been moved to the WinterhavenMC organization.
+
+https://github.com/winterhavenmc/HomeStar
+
 # HomeStar
 
 A configurable item that serves as a physical replacement for the /home command. Exactly like *SpawnStar*, except for home! In my survival world, I felt that the /home command was too easy. But my players really wanted to be able to return to home easily. So I made this plugin as a compromise. Now, players need to buy HomeStars from shops before venturing out into the wilderness if they want to be able to teleport back to their home (bed spawn) location.
